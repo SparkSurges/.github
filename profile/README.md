@@ -1,4 +1,4 @@
-## Sparksurges
+# SparkSurges
 
 We are a cutting-edge software agency dedicated to sparking innovation and driving technological success. 
 
